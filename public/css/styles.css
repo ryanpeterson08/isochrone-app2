@@ -1,0 +1,13 @@
+#map{
+  height: 500px;
+  width: 100%;
+  background-color: black;
+}
+
+.navbar{
+  margin-bottom: 0px;
+}
+
+li.leaflet-pelias-result{
+  color: black;
+}
